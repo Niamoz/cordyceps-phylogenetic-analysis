@@ -1,5 +1,4 @@
 # cordyceps-phylogenetic-analysis
-# Phylogenetic Analysis of Cordyceps Species
 
 This project was completed as part of my undergraduate studies in Molecular Biology and Genetics.
 
