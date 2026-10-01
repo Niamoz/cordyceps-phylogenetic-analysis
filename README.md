@@ -15,3 +15,12 @@ The aim of the study was to investigate phylogenetic relationships among Cordyce
 
 The project includes sequence analysis, phylogenetic tree construction, Bayesian inference, and tree visualization.
 
+## Results
+
+### Maximum Likelihood Tree
+
+![Maximum Likelihood Tree](max_likelihood.png)
+
+### Bayesian Phylogenetic Tree
+
+![Bayesian Phylogenetic Tree](bayesian.png)
